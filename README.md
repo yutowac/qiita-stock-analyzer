@@ -1,4 +1,9 @@
+<img width="1230" height="606" alt="image" src="https://github.com/user-attachments/assets/e2033aec-8dcb-44af-a457-87d43fe371ca" />
+
 # Qiita Stock Analyzer
+
+こちらから試していただけます。  
+👉[Qiita stock Analyzer ](https://qiita-stock-analyzer-nxhtleme4pley9wmqxfsrz.streamlit.app/)
 
 > ストックしがちなQiita記事を分析して、自分の技術的関心の変化を可視化するアプリ
 
