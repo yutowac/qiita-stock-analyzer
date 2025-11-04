@@ -190,12 +190,6 @@ qiita-stock-analyzer/
 
 MIT License - 詳細は [LICENSE](LICENSE) ファイルを参照してください。
 
-## 謝辞
-
-- [Qiita API v2](https://qiita.com/api/v2/docs) - データ提供
-- [Streamlit](https://streamlit.io/) - アプリケーションフレームワーク
-- [Plotly](https://plotly.com/) - グラフ可視化ライブラリ
-
 ## お問い合わせ
 
 質問や提案がある場合は、[Issue](https://github.com/yutowac/qiita-stock-analyzer/issues)を作成してください。
